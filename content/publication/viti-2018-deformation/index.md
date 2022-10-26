@@ -8,7 +8,7 @@ authors:
 - Cecilia Viti
 - Cristiano Collettini
 - Telemaco Tesei
-- Matthew S Tarling
+- Matthew Tarling
 - Steven AF Smith
 tags: []
 categories: []

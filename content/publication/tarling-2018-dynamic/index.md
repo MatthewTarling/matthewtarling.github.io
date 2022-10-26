@@ -5,7 +5,7 @@ title: Dynamic earthquake rupture preserved in a creeping serpentinite shear zon
 subtitle: ''
 summary: ''
 authors:
-- Matthew S Tarling
+- Matthew Tarling
 - Steven AF Smith
 - Cecilia Viti
 - James M Scott

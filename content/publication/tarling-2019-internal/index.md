@@ -6,7 +6,7 @@ title: 'The internal structure and composition of a plate-boundary-scale serpent
 subtitle: ''
 summary: ''
 authors:
-- Matthew S Tarling
+- Matthew Tarling
 - Steven AF Smith
 - James M Scott
 - Jeremy S Rooney

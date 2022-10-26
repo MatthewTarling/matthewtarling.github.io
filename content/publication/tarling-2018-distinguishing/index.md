@@ -5,7 +5,7 @@ title: Distinguishing the Raman spectrum of polygonal serpentine
 subtitle: ''
 summary: ''
 authors:
-- Matthew S Tarling
+- Matthew Tarling
 - Jeremy S Rooney
 - Cecilia Viti
 - Steven AF Smith

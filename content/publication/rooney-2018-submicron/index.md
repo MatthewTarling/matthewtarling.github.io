@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jeremy S Rooney
-- Matthew S Tarling
+- Matthew Tarling
 - Steven AF Smith
 - Keith C Gordon
 tags: []

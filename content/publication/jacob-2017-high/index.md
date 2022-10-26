@@ -9,7 +9,7 @@ authors:
 - Jean-Baptiste Jacob
 - James M Scott
 - Rose E Turnbull
-- Matthew S Tarling
+- Matthew Tarling
 - Matthew W Sagar
 tags: []
 categories: []

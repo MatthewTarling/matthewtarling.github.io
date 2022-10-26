@@ -5,7 +5,7 @@ title: A common type of mineralogical banding in serpentine crack-seal veins
 subtitle: ''
 summary: ''
 authors:
-- Matthew S Tarling
+- Matthew Tarling
 - Steven AF Smith
 - Jeremy S Rooney
 - Cecilia Viti

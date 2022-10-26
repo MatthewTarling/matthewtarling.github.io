@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matthew S Tarling                                             
+title: Matthew Tarling                                             
 
 # Full name (for SEO)
 first_name: Matthew S
@@ -77,12 +77,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 
-I'm a Director's Postdoctoral Fellow at Los Alamos National Laboratory, joint appointed between the Fluid Dynamics and Solid Mechanics, and Geophysics Groups. My research focuses on flow and deformation in the Earth's interior and the effect these processes have on changing sea level and ice sheet stability.
-
-I am a postdoc in rock deformation interested in the deformation mechanisms operating along plate boundaries.
-
-My research investigates the rheology of fault and shear zones using a combination of field, experimental, and microanalytical methods to determine how deformation at the grain scale influences the strength of the lithosphere and controls large-scale tectonics.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a field geologist and a postdoc in the Department of Earth and Planetary Sciences at McGill University. My research goals are directed toward developing a better understanding of the interaction of structure, rock deformation, and mineral reactions in controlling the evolution of large faults and shear zones over the seismic cycle. My research lies at the intersection between structural geology and rock deformation, geochemistry and mineralogy, and is rooted in careful and quantitative field observations across a wide range of dimensional and spatial scales, supported by high-resolution microstructural, analytical, and experimental work.

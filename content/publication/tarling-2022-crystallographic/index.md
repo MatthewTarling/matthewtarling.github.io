@@ -5,7 +5,7 @@ title: Crystallographic orientation mapping of lizardite serpentinite by Raman s
 subtitle: ''
 summary: ''
 authors:
-- Matthew S Tarling
+- Matthew Tarling
 - Matteo Demurtas
 - Steven AF Smith
 - Jeremy S Rooney

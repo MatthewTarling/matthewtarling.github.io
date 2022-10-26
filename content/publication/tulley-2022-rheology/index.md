@@ -1,17 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Rheology of naturally-deformed antigorite serpentinite: STRAIN AND STRAIN-RATE
-  DEPENDENCE AT MANTLE-WEDGE CONDITIONS'
+title: 'Rheology of naturally-deformed antigorite serpentinite: Strain and strain-rate dependence at mantle-wedge conditions'
 subtitle: ''
 summary: ''
 authors:
-- CJ Tulley
-- Å Fagereng
-- K Ujiie
-- S Piazolo
-- MS Tarling
-- Y Mori
+- Chris J Tulley
+- Åke Fagereng
+- Kohtaro Ujiie
+- Sandra Piazolo
+- Matthew Tarling
+- Yasushi Mori
 tags: []
 categories: []
 date: '2022-01-01'

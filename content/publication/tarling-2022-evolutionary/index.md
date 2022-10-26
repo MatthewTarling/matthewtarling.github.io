@@ -6,7 +6,7 @@ title: An evolutionary model and classification scheme for nephrite jade based o
 subtitle: ''
 summary: ''
 authors:
-- Matthew S Tarling
+- Matthew Tarling
 - Steven AF Smith
 - Marianne Negrini
 - Li-Wei Kuo

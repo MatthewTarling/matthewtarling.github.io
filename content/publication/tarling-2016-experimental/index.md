@@ -5,7 +5,7 @@ title: Experimental slip distribution in lentils as an analog for scaly clay fab
 subtitle: ''
 summary: ''
 authors:
-- Matthew S Tarling
+- Matthew Tarling
 - Christie D Rowe
 tags: []
 categories: []

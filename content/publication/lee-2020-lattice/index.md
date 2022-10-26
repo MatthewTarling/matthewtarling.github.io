@@ -9,7 +9,7 @@ authors:
 - Jungjin Lee
 - Haemyeong Jung
 - Reiner Klemd
-- Matthew S Tarling
+- Matthew Tarling
 - Dmitry Konopelko
 tags: []
 categories: []

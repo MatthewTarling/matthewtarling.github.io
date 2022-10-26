@@ -8,7 +8,7 @@ summary: ''
 authors:
 - James M Scott
 - Steven AF Smith
-- Matthew S Tarling
+- Matthew Tarling
 - Petrus J le Roux
 - Chris Harris
 - J Elis Hoffmann

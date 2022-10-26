@@ -9,7 +9,7 @@ authors:
 - Marianne Negrini
 - Steven AF Smith
 - James M Scott
-- Matthew S Tarling
+- Matthew Tarling
 tags: []
 categories: []
 date: '2018-01-01'
