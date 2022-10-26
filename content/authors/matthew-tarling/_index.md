@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Matthew Tarling
+title: Matthew S Tarling                                             
 
 # Full name (for SEO)
-first_name: Matthew
-last_name: Tarling
+first_name: Matthew S
+last_name: Tarling       
 
 # Is this the primary user of the site?
 superuser: true
@@ -78,8 +78,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Director's Postdoctoral Fellow at Los Alamos National Laboratory, joint appointed between the Fluid Dynamics and Solid Mechanics, and Geophysics Groups. My research focuses on flow and deformation in the Earth's interior and the effect these processes have on changing sea level and ice sheet stability.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoc in rock deformation interested in the deformation mechanisms operating along plate boundaries.
+
+My research investigates the rheology of fault and shear zones using a combination of field, experimental, and microanalytical methods to determine how deformation at the grain scale influences the strength of the lithosphere and controls large-scale tectonics.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
