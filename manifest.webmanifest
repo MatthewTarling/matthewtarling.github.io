@@ -1,0 +1,18 @@
+{
+  "name": "Dr Matthew Tarling",
+  "short_name": "Dr Matthew Tarling",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu1eb7ff5a4cbffe3dd5eddd00a7e5f832_3073_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu1eb7ff5a4cbffe3dd5eddd00a7e5f832_3073_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

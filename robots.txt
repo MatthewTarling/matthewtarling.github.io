@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://matthewtarling.github.io/sitemap.xml

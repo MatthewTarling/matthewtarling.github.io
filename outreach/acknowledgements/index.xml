@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acknowledgements | Dr Matthew Tarling</title>
+    <link>https://matthewtarling.github.io/outreach/acknowledgements/</link>
+      <atom:link href="https://matthewtarling.github.io/outreach/acknowledgements/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acknowledgements</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matthewtarling.github.io/media/icon_hu1eb7ff5a4cbffe3dd5eddd00a7e5f832_3073_512x512_fill_lanczos_center_3.png</url>
+      <title>Acknowledgements</title>
+      <link>https://matthewtarling.github.io/outreach/acknowledgements/</link>
+    </image>
+    
+  </channel>
+</rss>
